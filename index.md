@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# SEIR_misclassification-Delhi
 
-You can use the [editor on GitHub](https://github.com/Ritwik-Bhaduri/SEIR_misclassification-Delhi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Description
+`SEIR_misclassification-Delhi` houses codes, results etc related to the study of dynamics of COVID-19 in Delhi, India. This is a part of research by COV-IND-19 Study Group led by Prof. Bhramar Mukherjee which includes researchers from University of Michigan Indian Statistical Institute and other universities.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Data source
+[www.covid19india.org/state/DL](https://www.covid19india.org/state/DL)
 
-### Markdown
+## Website
+* Work done by COV-IND-19 study group : [covind19.org](https://umich-biostatistics.shinyapps.io/covid19/) 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Publications and articles 
+* [Medium article](https://medium.com/@covind_19/what-can-we-learn-from-the-delhi-seroprevalence-study-and-a-single-number-that-was-reported-45e4cf185357) - 1st August, 2020.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ritwik-Bhaduri/SEIR_misclassification-Delhi/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Acknowledgements
+The COV-IND-19 Study Group is comprised of an interdisciplinary group of scholars and data scientists. The following members contributed to this project:
+* Rupam Bhattacharyya — Department of Biostatistics, University of Michigan
+* Ritwik Bhaduri — Indian Statistical Institute, Kolkata
+* Ritoban Kundu —Indian Statistical Institute, Kolkata
+* Maxwell Salvatore — Departments of Biostatistics and Epidemiology and Center for Precision Health Data Science, University of Michigan
+* Bhramar Mukherjee — Departments of Biostatistics and Epidemiology and Center for Precision Health Data Science, University of Michigan
