@@ -1,7 +1,7 @@
 # SEIR_misclassification-Delhi
 
 ## Description
-SEIR_misclassification-Delhi houses codes, results etc related to the study of dynamics of COVID-19 in Delhi, India. This is a part of research by COV-IND-19 Study Group led by Prof. Bhramar Mukherjee which includes researchers from University of Michigan Indian Statistical Institute and other universities.  
+`SEIR_misclassification-Delhi` houses codes, results etc related to the study of dynamics of COVID-19 in Delhi, India. This is a part of research by COV-IND-19 Study Group led by Prof. Bhramar Mukherjee which includes researchers from University of Michigan Indian Statistical Institute and other universities.  
 
 ## Data source
 [www.covid19india.org/state/DL](https://www.covid19india.org/state/DL)
