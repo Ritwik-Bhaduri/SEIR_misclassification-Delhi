@@ -11,7 +11,7 @@
 
 ## Publications and articles 
 * [Medium article](https://medium.com/@covind_19/what-can-we-learn-from-the-delhi-seroprevalence-study-and-a-single-number-that-was-reported-45e4cf185357) - 1st August, 2020.
-
+* [Preprint](https://sph.umich.edu/precision-health-data-science/research/pdf/Serology_Paper.pdf)
 
 
 ## Acknowledgements
